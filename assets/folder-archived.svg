@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="152" viewBox="0 0 220 152" role="img" aria-labelledby="t d">
+<title id="t">Archived folder</title><desc id="d">Projects folder: Archived (retired, with honour)</desc>
+<defs><pattern id="wall" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#efe6d0"/><circle cx="1" cy="1" r="0.8" fill="#cbbd9b"/></pattern><pattern id="stripe" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fbf6e8"/><rect y="1" width="4" height="1" fill="#161512"/></pattern></defs>
+<rect width="220" height="152" fill="url(#wall)"/>
+<rect x="0" y="0" width="204" height="152" fill="#fbf6e8"/>
+<line x1="204" y1="0" x2="204" y2="152" stroke="#161512" stroke-width="2"/>
+<rect x="205" y="5" width="5" height="147" fill="#161512"/>
+<g transform="translate(62.0,18) scale(1.25)" shape-rendering="crispEdges"><rect x="6" y="10" width="26" height="10" fill="#d9ceb0" stroke="#161512" stroke-width="2"/><rect x="6" y="18" width="52" height="34" fill="#d9ceb0" stroke="#161512" stroke-width="2"/><rect x="10" y="22" width="44" height="3" fill="#fbf6e8" opacity="0.55"/><rect x="8" y="54" width="52" height="3" fill="#161512"/></g>
+<text x="102.0" y="114" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#161512" font-weight="bold" font-style="normal" text-anchor="middle" >Archived</text>
+<text x="102.0" y="132" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="12" fill="#6f6755" font-weight="normal" font-style="italic" text-anchor="middle" >retired, with honour</text>
+</svg>

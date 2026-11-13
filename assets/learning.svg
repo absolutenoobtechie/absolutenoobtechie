@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="472" viewBox="0 0 880 472" role="img" aria-labelledby="t d">
+<title id="t">now learning</title><desc id="d">Learning checkpoints: Python - started; C++ - started; Java - started; Git &amp; GitHub - started; Machine learning fundamentals - started</desc>
+<defs><pattern id="wall" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#efe6d0"/><circle cx="1" cy="1" r="0.8" fill="#cbbd9b"/></pattern><pattern id="stripe" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fbf6e8"/><rect y="1" width="4" height="1" fill="#161512"/></pattern></defs>
+<rect width="880" height="472" fill="url(#wall)"/>
+<rect x="21" y="13" width="848" height="448" fill="#161512"/>
+<rect x="16" y="8" width="848" height="448" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="17" y="9" width="846" height="26" fill="url(#stripe)"/>
+<line x1="16" y1="36" x2="864" y2="36" stroke="#161512" stroke-width="2"/>
+<rect x="26" y="16" width="12" height="12" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="360.8" y="13" width="158.4" height="19" fill="#fbf6e8"/>
+<text x="440.0" y="27" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#161512" font-weight="bold" font-style="normal" text-anchor="middle" >now learning.app</text>
+<rect x="840" y="16" width="12" height="12" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="843" y="19" width="6" height="6" fill="none" stroke="#161512" stroke-width="1.5"/>
+<text x="48" y="82" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="14" fill="#6f6755" font-weight="normal" font-style="italic" text-anchor="start" >checkpoints i update by hand. no fake percentages.</text>
+<text x="48" y="112" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#6f6755" font-weight="bold" font-style="normal" text-anchor="start" >TOPIC</text>
+<text x="410" y="112" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#6f6755" font-weight="bold" font-style="normal" text-anchor="start" >CHECKPOINT</text>
+<text x="832" y="112" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#6f6755" font-weight="bold" font-style="normal" text-anchor="end" >STAGE</text>
+<line x1="32" y1="120" x2="848" y2="120" stroke="#161512" stroke-width="1"/>
+<g transform="translate(30,124) scale(0.55)" shape-rendering="crispEdges"><path d="M12 6 H40 L52 18 V58 H12 Z" fill="#fbf6e8" stroke="#161512" stroke-width="2"/><path d="M40 6 V18 H52" fill="#f3d98b" stroke="#161512" stroke-width="2"/><rect x="18" y="28" width="28" height="2" fill="#161512"/><rect x="18" y="35" width="28" height="2" fill="#161512"/><rect x="18" y="42" width="28" height="2" fill="#161512"/><rect x="18" y="49" width="16" height="2" fill="#161512"/></g>
+<text x="72" y="146" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#161512" font-weight="bold" font-style="normal" text-anchor="start" >Python</text>
+<text x="72" y="164" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="12" fill="#6f6755" font-weight="normal" font-style="italic" text-anchor="start" >the main character</text>
+<rect x="410" y="136" width="26" height="20" fill="#e2a929" stroke="#161512" stroke-width="2"/>
+<rect x="444" y="136" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="478" y="136" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="512" y="136" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="832" y="152" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#161512" font-weight="normal" font-style="normal" text-anchor="end" >started</text>
+<line x1="32" y1="178" x2="848" y2="178" stroke="#cbbd9b" stroke-width="1"/>
+<g transform="translate(30,180) scale(0.55)" shape-rendering="crispEdges"><path d="M12 6 H40 L52 18 V58 H12 Z" fill="#fbf6e8" stroke="#161512" stroke-width="2"/><path d="M40 6 V18 H52" fill="#f3d98b" stroke="#161512" stroke-width="2"/><rect x="18" y="28" width="28" height="2" fill="#161512"/><rect x="18" y="35" width="28" height="2" fill="#161512"/><rect x="18" y="42" width="28" height="2" fill="#161512"/><rect x="18" y="49" width="16" height="2" fill="#161512"/></g>
+<text x="72" y="202" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#161512" font-weight="bold" font-style="normal" text-anchor="start" >C++</text>
+<text x="72" y="220" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="12" fill="#6f6755" font-weight="normal" font-style="italic" text-anchor="start" >pointers, politely</text>
+<rect x="410" y="192" width="26" height="20" fill="#e2a929" stroke="#161512" stroke-width="2"/>
+<rect x="444" y="192" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="478" y="192" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="512" y="192" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="832" y="208" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#161512" font-weight="normal" font-style="normal" text-anchor="end" >started</text>
+<line x1="32" y1="234" x2="848" y2="234" stroke="#cbbd9b" stroke-width="1"/>
+<g transform="translate(30,236) scale(0.55)" shape-rendering="crispEdges"><path d="M12 6 H40 L52 18 V58 H12 Z" fill="#fbf6e8" stroke="#161512" stroke-width="2"/><path d="M40 6 V18 H52" fill="#f3d98b" stroke="#161512" stroke-width="2"/><rect x="18" y="28" width="28" height="2" fill="#161512"/><rect x="18" y="35" width="28" height="2" fill="#161512"/><rect x="18" y="42" width="28" height="2" fill="#161512"/><rect x="18" y="49" width="16" height="2" fill="#161512"/></g>
+<text x="72" y="258" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#161512" font-weight="bold" font-style="normal" text-anchor="start" >Java</text>
+<text x="72" y="276" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="12" fill="#6f6755" font-weight="normal" font-style="italic" text-anchor="start" >objects everywhere</text>
+<rect x="410" y="248" width="26" height="20" fill="#e2a929" stroke="#161512" stroke-width="2"/>
+<rect x="444" y="248" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="478" y="248" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="512" y="248" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="832" y="264" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#161512" font-weight="normal" font-style="normal" text-anchor="end" >started</text>
+<line x1="32" y1="290" x2="848" y2="290" stroke="#cbbd9b" stroke-width="1"/>
+<g transform="translate(30,292) scale(0.55)" shape-rendering="crispEdges"><path d="M12 6 H40 L52 18 V58 H12 Z" fill="#fbf6e8" stroke="#161512" stroke-width="2"/><path d="M40 6 V18 H52" fill="#f3d98b" stroke="#161512" stroke-width="2"/><rect x="18" y="28" width="28" height="2" fill="#161512"/><rect x="18" y="35" width="28" height="2" fill="#161512"/><rect x="18" y="42" width="28" height="2" fill="#161512"/><rect x="18" y="49" width="16" height="2" fill="#161512"/></g>
+<text x="72" y="314" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#161512" font-weight="bold" font-style="normal" text-anchor="start" >Git &amp; GitHub</text>
+<text x="72" y="332" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="12" fill="#6f6755" font-weight="normal" font-style="italic" text-anchor="start" >commit early, commit often</text>
+<rect x="410" y="304" width="26" height="20" fill="#e2a929" stroke="#161512" stroke-width="2"/>
+<rect x="444" y="304" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="478" y="304" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="512" y="304" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="832" y="320" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#161512" font-weight="normal" font-style="normal" text-anchor="end" >started</text>
+<line x1="32" y1="346" x2="848" y2="346" stroke="#cbbd9b" stroke-width="1"/>
+<g transform="translate(30,348) scale(0.55)" shape-rendering="crispEdges"><path d="M12 6 H40 L52 18 V58 H12 Z" fill="#fbf6e8" stroke="#161512" stroke-width="2"/><path d="M40 6 V18 H52" fill="#f3d98b" stroke="#161512" stroke-width="2"/><rect x="18" y="28" width="28" height="2" fill="#161512"/><rect x="18" y="35" width="28" height="2" fill="#161512"/><rect x="18" y="42" width="28" height="2" fill="#161512"/><rect x="18" y="49" width="16" height="2" fill="#161512"/></g>
+<text x="72" y="370" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#161512" font-weight="bold" font-style="normal" text-anchor="start" >Machine learning fundamentals</text>
+<text x="72" y="388" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="12" fill="#6f6755" font-weight="normal" font-style="italic" text-anchor="start" >the destination</text>
+<rect x="410" y="360" width="26" height="20" fill="#e2a929" stroke="#161512" stroke-width="2"/>
+<rect x="444" y="360" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="478" y="360" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="512" y="360" width="26" height="20" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="832" y="376" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#161512" font-weight="normal" font-style="normal" text-anchor="end" >started</text>
+<line x1="32" y1="402" x2="848" y2="402" stroke="#cbbd9b" stroke-width="1"/>
+<text x="48" y="430" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#6f6755" font-weight="bold" font-style="normal" text-anchor="start" >legend:</text>
+<text x="104" y="430" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#6f6755" font-weight="normal" font-style="normal" text-anchor="start" >started  -&gt;  practicing  -&gt;  building with it  -&gt;  comfortable</text>
+</svg>

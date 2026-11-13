@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="224" viewBox="0 0 880 224" role="img" aria-labelledby="t d">
+<title id="t">recycle bin</title><desc id="d">Lessons: read the error message *before* panicking. a small project finished beats a big one imagined. commit the broken version too. it's a diary.</desc>
+<defs><pattern id="wall" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#efe6d0"/><circle cx="1" cy="1" r="0.8" fill="#cbbd9b"/></pattern><pattern id="stripe" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fbf6e8"/><rect y="1" width="4" height="1" fill="#161512"/></pattern></defs>
+<rect width="880" height="224" fill="url(#wall)"/>
+<rect x="21" y="13" width="848" height="200" fill="#161512"/>
+<rect x="16" y="8" width="848" height="200" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="17" y="9" width="846" height="26" fill="url(#stripe)"/>
+<line x1="16" y1="36" x2="864" y2="36" stroke="#161512" stroke-width="2"/>
+<rect x="26" y="16" width="12" height="12" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="381.8" y="13" width="116.4" height="19" fill="#fbf6e8"/>
+<text x="440.0" y="27" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#161512" font-weight="bold" font-style="normal" text-anchor="middle" >recycle bin</text>
+<rect x="840" y="16" width="12" height="12" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<rect x="843" y="19" width="6" height="6" fill="none" stroke="#161512" stroke-width="1.5"/>
+<g transform="translate(42,52) scale(1.7)" shape-rendering="crispEdges"><rect x="14" y="14" width="36" height="4" fill="#161512"/><rect x="26" y="9" width="12" height="5" fill="#161512"/><path d="M17 20 H47 L44 58 H20 Z" fill="#fbf6e8" stroke="#161512" stroke-width="2"/><rect x="25" y="26" width="2" height="26" fill="#161512"/><rect x="31" y="26" width="2" height="26" fill="#161512"/><rect x="37" y="26" width="2" height="26" fill="#161512"/></g>
+<text x="166" y="72" font-family="Georgia,'Iowan Old Style','Times New Roman','DejaVu Serif',serif" font-size="15" fill="#161512" font-weight="bold" font-style="italic" text-anchor="start" >lessons salvaged from failed experiments</text>
+<rect x="166" y="94" width="12" height="14" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="192" y="106" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#161512" font-weight="normal" font-style="normal" text-anchor="start" >read the error message before panicking.</text>
+<rect x="166" y="124" width="12" height="14" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="192" y="136" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#161512" font-weight="normal" font-style="normal" text-anchor="start" >a small project finished beats a big one imagined.</text>
+<rect x="166" y="154" width="12" height="14" fill="#fbf6e8" stroke="#161512" stroke-width="2"/>
+<text x="192" y="166" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#161512" font-weight="normal" font-style="normal" text-anchor="start" >commit the broken version too. it's a diary.</text>
+</svg>

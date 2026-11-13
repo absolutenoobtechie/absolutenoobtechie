@@ -1,0 +1,55 @@
+{
+  "_readme": "Edit this file to change the text inside the desktop windows. Then run: python3 scripts/build_assets.py  (GitHub Actions also does this automatically when you push a change here).",
+
+  "username": "absolutenoobtechie",
+  "menu_status": "mode: learning",
+
+  "hello": {
+    "greeting": "hi, i'm",
+    "name": "absolutenoobtechie.",
+    "tagline": ["a cs undergrad in india,", "learning to build things that think."],
+    "info": [
+      ["currently exploring", "AI, ML and Python"],
+      ["status", "learning, building, experimenting"],
+      ["interests", "software dev, AI, technology"]
+    ],
+    "sticky": ["beginner", "(proudly)"]
+  },
+
+  "stages": ["not started", "started", "practicing", "building with it", "comfortable"],
+
+  "learning": [
+    {"name": "Python",                       "stage": 1, "note": "the main character"},
+    {"name": "C++",                          "stage": 1, "note": "pointers, politely"},
+    {"name": "Java",                         "stage": 1, "note": "objects everywhere"},
+    {"name": "Git & GitHub",                 "stage": 1, "note": "commit early, commit often"},
+    {"name": "Machine learning fundamentals", "stage": 1, "note": "the destination"}
+  ],
+
+  "terminal": [
+    ["cmd", "whoami"],
+    ["out", "absolutenoobtechie"],
+    ["cmd", "cat status.txt"],
+    ["out", "learning. building. breaking things"],
+    ["out", "(on purpose, mostly)."],
+    ["cmd", "python3 -c \"print('hello, world')\""],
+    ["out", "hello, world"],
+    ["cmd", "git commit -m \"one small step\""]
+  ],
+
+  "sysinfo_title": "About This Computer",
+  "sysinfo": [
+    ["system",    "CS undergrad, student ed."],
+    ["location",  "India"],
+    ["version",   "beta. updates daily"],
+    ["languages", "Python, C++, Java (learning)"],
+    ["memory",    "mostly tabs + caffeine"],
+    ["focus",     "AI / ML foundations"]
+  ],
+
+  "recycle": [
+    "read the error message *before* panicking.",
+    "a small project finished beats a big one imagined.",
+    "commit the broken version too. it's a diary."
+  ]
+}

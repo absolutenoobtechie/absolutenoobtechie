@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="48" viewBox="0 0 880 48" role="img" aria-labelledby="t d">
+<title id="t">projects window footer</title><desc id="d">Projects window footer</desc>
+<defs><pattern id="wall" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#efe6d0"/><circle cx="1" cy="1" r="0.8" fill="#cbbd9b"/></pattern><pattern id="stripe" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#fbf6e8"/><rect y="1" width="4" height="1" fill="#161512"/></pattern></defs>
+<rect width="880" height="48" fill="url(#wall)"/>
+<rect x="16" y="0" width="848" height="40" fill="#fbf6e8"/>
+<rect x="865" y="0" width="5" height="45" fill="#161512"/>
+<rect x="21" y="45" width="848" height="5" fill="#161512" transform="translate(0,-2)"/>
+<line x1="16" y1="0" x2="16" y2="38" stroke="#161512" stroke-width="2"/>
+<line x1="864" y1="0" x2="864" y2="38" stroke="#161512" stroke-width="2"/>
+<line x1="16" y1="38" x2="864" y2="38" stroke="#161512" stroke-width="2"/>
+<line x1="16" y1="1" x2="864" y2="1" stroke="#161512" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="34" y="24" font-family="'SF Mono','Menlo','Consolas','DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#6f6755" font-weight="normal" font-style="normal" text-anchor="start" >tip: tag a repo with the topic  built / in-progress / experiments / archived  to file it here.</text>
+</svg>
