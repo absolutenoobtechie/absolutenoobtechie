@@ -1,6 +1,5 @@
 # 📄 About Me
 
-*(a longer version of hello.txt — edit me!)*
 
 - **Name / handle:** absolutenoobtechie
 - **Studying:** Computer Science, India
